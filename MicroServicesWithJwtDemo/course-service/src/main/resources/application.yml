@@ -1,0 +1,28 @@
+server:
+  port: 9002
+  address: 127.0.0.1
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/course
+    username: postgres
+    password: 1998
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL10Dialect
+        show_sql: true
+        format_sql: true
+        hbm2ddl.auto: update
+  application:
+    name: Course-Service
+
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/
+#    instance:
+#      hostname: localhost

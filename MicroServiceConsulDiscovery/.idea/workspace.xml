@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="517bffbd-676c-4b40-b0dd-08b060cd3506" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JMcv3rvJTKodA2fQfsWhn8Ll7J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api-gateway/src/main/resources" />
+      <recent name="$PROJECT_DIR$/course-service/src/main/resources" />
+      <recent name="$PROJECT_DIR$/student-service/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.course.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.student.service.api.dto" />
+      <recent name="com.course.service.dto" />
+      <recent name="com.course.service.api.mappers.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.api.gateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.api.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apigatewayservice.ApiGatewayServiceApplication" />
+      <module name="api-gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apigatewayservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.configserverservice.ConfigServerServiceApplication" />
+      <module name="config-server-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.configserverservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.course.service.api.CourseServiceApplication" />
+      <module name="course-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.service.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.student.service.api.StudentServiceApplication" />
+      <module name="student-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.student.service.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.configserverservice.ConfigServerServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="course-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.service.api.CourseServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="student-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.student.service.api.StudentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConfigServerServiceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.CourseServiceApplication" />
+        <item itemvalue="Application.StudentServiceApplication" />
+        <item itemvalue="Application.ApiGatewayServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="517bffbd-676c-4b40-b0dd-08b060cd3506" name="Changes" comment="" />
+      <created>1671891619745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671891619745</updated>
+      <workItem from="1672454007362" duration="5401000" />
+      <workItem from="1672525676394" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1672458457443">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="533" y="132" key="#com.intellij.ide.util.MemberChooser/0.25.1440.809@0.25.1440.809" timestamp="1672458457443" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1672459576666">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1672459576666" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1672459576665">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1672459576665" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1672459576664">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1672459576664" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1672459576665">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1672459576665" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1672459576668">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.25.1440.809@0.25.1440.809" timestamp="1672459576668" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1672459576667">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.25.1440.809@0.25.1440.809" timestamp="1672459576667" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1672459576666">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.25.1440.809@0.25.1440.809" timestamp="1672459576666" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1672459576667">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.25.1440.809@0.25.1440.809" timestamp="1672459576667" />
+    <state x="229" y="63" key="SettingsEditor" timestamp="1672454305738">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="229" y="63" key="SettingsEditor/0.25.1440.809@0.25.1440.809" timestamp="1672454305738" />
+  </component>
+</project>

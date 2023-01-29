@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c45516-f278-4c70-aef1-e99bf7f23cfc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2H8f27zizV3OjmAGM8k92e2CZ3F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="course-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rest.course.api.CourseServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eureka.server.api.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="student-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.rest.student.api.StudentServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c45516-f278-4c70-aef1-e99bf7f23cfc" name="Default Changelist" comment="" />
+      <created>1667671422293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667671422293</updated>
+      <workItem from="1667671431537" duration="22000" />
+      <workItem from="1667671514244" duration="3000" />
+      <workItem from="1672525588486" duration="71000" />
+      <workItem from="1672525683310" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" key="#Project_Structure" timestamp="1672525757429">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.801@0.25.1440.801" timestamp="1672525757429" />
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom" timestamp="1672527132000">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1672527132000" />
+    <state width="1398" height="281" key="GridCell.Tab.0.center" timestamp="1672527131999">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1672527131999" />
+    <state width="1398" height="281" key="GridCell.Tab.0.left" timestamp="1672527131998">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1672527131998" />
+    <state width="1398" height="281" key="GridCell.Tab.0.right" timestamp="1672527131999">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1398" height="281" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1672527131999" />
+  </component>
+</project>

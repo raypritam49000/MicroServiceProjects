@@ -1,0 +1,53 @@
+#server:
+#  port: 9999
+#
+#zuul:
+#  prefix: /api
+#  sensitiveHeaders: Cookie,Set-Cookie
+#  routes:
+#    google:
+#      path: /google/**
+#      url: https://www.google.com/
+#
+#  SendResponseFilter:
+#    post:
+#      disable=true:
+#      #    utp-user-service:
+##      path: /utp-user-service/**
+##      serviceId: utp-user-service
+##      url: http://10.1.113.26:8010/
+#
+#
+#logging:
+#  level:
+#    org:
+#      springframework:
+#        cloud:
+#          netflix: trace
+#
+#
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          thread:
+#            timeoutInMilliseconds: 3600000
+#
+#ribbon:
+#  ReadTimeout: 3600000
+#
+#
+#registry:
+#  path: /registry/**
+#  url: http://localhost:8006/
+#  strip-prefix: true
+#registry-static:
+#  path: /eureka/**
+#  url: http://localhost:8006/eureka/
+#
+#
+#
+#
+#
+#

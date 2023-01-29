@@ -1,0 +1,28 @@
+server:
+  port: 9002
+
+spring:
+  application:
+    name: user-service
+  zipkin:
+    base-url: http://127.0.0.1:9411/
+
+  datasource:
+    password: 0003pray
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    url: jdbc:mysql://localhost:3306/test?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        hbm2ddl:
+          auto: update
+        format_sql: true
+        show_sql: true
+
+eureka:
+  instance:
+    appname: user-service
+
